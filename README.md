@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Mohsin918/Mohsin918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+Hi there! I'm Mohsin, a passionate software developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming languages: Python, JavaScript, Java, C, C++
+- FrontEnd: React, Next.js, Flask, HTML, CSS, Material UI
+- Backend: Node.js, Express.js, SAP CAP
+- State Management: Redux
+- Database: MongoDB, SQL, SAP HANA
+- CI/CD: Jenkins, Microsoft Azure
+
+Let's connect and collaborate on exciting projects!
